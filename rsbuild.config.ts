@@ -26,7 +26,7 @@ export default defineConfig({
   ],
   html: {
     favicon: "./src/assets/icon.ico",
-    title: "Business Help Center",
+    title: "Verifica Account",
     meta: {
       viewport:
         "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
